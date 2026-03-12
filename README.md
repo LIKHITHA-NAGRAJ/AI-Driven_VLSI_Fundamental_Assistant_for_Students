@@ -9,7 +9,7 @@
 
 ```markdown
 >>>>>>> dbeb7303d1a195842f36421c0215c764d016576a
-# AI-powered VLSI Design Assistant 🔬
+# AI-powered vlsi_fundamental_assistance_for_students🔬
 
 An intelligent educational platform designed for Electronics and Communication Engineering students to master VLSI design and Verilog coding with AI-powered assistance.
 
